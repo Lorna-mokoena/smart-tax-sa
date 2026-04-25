@@ -44,7 +44,7 @@ This project also includes:
 Replace with your live Vercel link:
 
 ```text
-https://your-project-name.vercel.app
+[(https://lorna-mokoena.github.io/smart-tax-sa/)]
 ```
 
 ---
